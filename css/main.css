@@ -34,4 +34,33 @@ section.contenuto p span{
   background-color: yellow;
 }
 
+section.contenuto ul{
+  padding-inline-start: 20px;
+}
 
+/* Tabella */
+table{
+  border-collapse: collapse;
+}
+
+th, td{
+  text-align: left;
+}
+
+table thead{
+  color: white;
+  background-color: rgb(37, 138, 221);
+  
+}
+
+table .element{
+  width: 300px;
+}
+
+table .big-element{
+  text-align: start;
+}
+
+table .blu-row{
+  background-color: rgba(19, 167, 226, 0.406);
+}
