@@ -79,15 +79,15 @@ footer div {
   height: 180px;
   }
 
-  .footer-image2{
-    background-image: url(../img/graph.jpg);
-    background-repeat: no-repeat;
-    height: 180px;
-    }
+.footer-image2{
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  height: 180px;
+  }
 
-    span.bianco{
-      color: white;
-      font-size: x-large;
-      font-weight: bold;
-      margin-left: 15px;
-    }
+span.bianco{
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  margin-left: 15px;
+  }
