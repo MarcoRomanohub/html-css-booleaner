@@ -4,7 +4,7 @@ header{
   background-image: url(../img/pattern.png);
 }
 
-header img{
+header .logo img{
   width: 400px;
   margin-top: 50px;
   margin-left: 30px;
